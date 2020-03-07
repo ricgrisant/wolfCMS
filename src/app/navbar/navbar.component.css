@@ -1,0 +1,16 @@
+.mb-4, .my-4 {
+    margin-bottom: 0 !important;
+}
+
+body {
+    min-height: 75rem;
+  }
+
+.bg-dark {
+    background:linear-gradient(87deg,#5e72e4 0,#825ee4 100%)!important;
+}
+
+.navbar-brand{
+    font-size: 30px;
+    font-weight: bolder;
+}
