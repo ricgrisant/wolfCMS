@@ -100,6 +100,13 @@ body {
     margin-left: 10%;
     margin-right: 10%;
   }
+
+  .opcionesDash:hover {
+    background: #1d21248f;
+    border-radius: 30px;
+    text-align: center;
+    transition: 0.6s;
+  }
   .form-control-dark {
     color: #fff;
     background-color: rgba(255, 255, 255, .1);
